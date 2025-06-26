@@ -2,7 +2,7 @@ ESP32Helper Kütüphanesi
 ESP32Helper, ESP32 projeleri için geliştirme sürecini hızlandırmak ve standartlaştırmak amacıyla tasarlanmış, çok fonksiyonlu bir yardımcı kütüphanedir. WiFi yönetimi, web tabanlı arayüz, uzaktan güncelleme (OTA), dinamik kontroller ve anlık log takibi gibi birçok karmaşık işlemi basit fonksiyon çağrılarıyla yönetmenizi sağlar.
 
 Bu kütüphane sayesinde, projenizin ana mantığına odaklanırken, bağlantı ve arayüz gibi standart ihtiyaçları kütüphaneye devredebilirsiniz.
-
+![MasterHead](https://github.com/HasbiGurel/HasbiGurel/blob/main/image/banner.png)
 ✨ Temel Özellikler
 Otomatik WiFi Yönetimi:
 
