@@ -3,12 +3,16 @@ ESP32Helper, ESP32 projeleri için geliştirme sürecini hızlandırmak ve stand
 
 Bu kütüphane sayesinde, projenizin ana mantığına odaklanırken, bağlantı ve arayüz gibi standart ihtiyaçları kütüphaneye devredebilirsiniz.
 
+![MasterHead](https://github.com/HasbiGurel/ESP32Helper/images/anasayfa.png)
+
 ✨ Temel Özellikler
 Otomatik WiFi Yönetimi:
 
 Cihaz, başlangıçta hafızaya kaydedilmiş WiFi bilgilerine bağlanmaya çalışır.
 
 Başarılı olamazsa veya kayıtlı ağ yoksa, kendi Access Point'ini (AP) oluşturarak bir kurulum arayüzü sunar.
+
+![MasterHead](https://github.com/HasbiGurel/ESP32Helper/images/ayarlar_1.png)
 
 Gelişmiş Web Paneli:
 
@@ -39,6 +43,9 @@ URL OTA (Otomatik Güncelleme Kontrolü ile):
 Panel üzerinden bir firmware URL'si kaydedebilirsiniz.
 
 Cihaz her yeniden başladığında bu URL'yi kontrol eder. Sunucudaki versiyon, cihazdaki versiyondan daha yeniyse, güncellemeyi otomatik olarak indirip kurar.
+
+![MasterHead](https://github.com/HasbiGurel/ESP32Helper/images/ayarlar_2.png)
+
 
 Kalıcı Hafıza (Preferences):
 
