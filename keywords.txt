@@ -1,0 +1,20 @@
+#######################################
+# Class (KEYWORD1)
+#######################################
+ESP32Helper	KEYWORD1
+WebSerial_	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+loop	KEYWORD2
+addButton	KEYWORD2
+webPrintln	KEYWORD2
+webPrintf	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BTN_BUTTON	LITERAL1
+BTN_SWITCH	LITERAL1
